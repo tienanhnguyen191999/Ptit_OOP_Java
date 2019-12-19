@@ -1,0 +1,36 @@
+10000
+Doraemon
+Shinji
+Khoa học tự nhiên
+1999
+44
+10001
+Mắc Biếc
+Nguyễn Nhật Ánh
+Văn học – Nghệ thuật
+2019
+33
+10002
+Con Nai Vàng
+Nguyễn Nhật Ánh
+Văn học – Nghệ thuật
+1999
+40
+10003
+FirstHead Java
+Author
+Công nghệ thông tin
+2015
+19
+10004
+FirstHead C++
+Author
+Công nghệ thông tin
+2017
+40
+10005
+Advanced in Java
+Author
+Công nghệ thông tin
+2012
+40
