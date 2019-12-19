@@ -1,0 +1,20 @@
+1000
+QUần áo
+Hàng thời trang
+150.0
+1001
+QUần áo
+Hàng thời trang
+150.0
+1002
+Máy Giặt
+Hàng tiêu dùng
+200.0
+10000
+
+Hà Nội
+0366216328
+10000
+TienAnh
+Nguyen
+0366216328
